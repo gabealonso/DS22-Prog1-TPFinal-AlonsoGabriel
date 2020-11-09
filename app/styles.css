@@ -1,0 +1,26 @@
+.section {
+    padding-left: 10px;
+    padding-right: 5px;
+}
+
+.nombre {
+    margin-left: 10px;
+}
+
+.dropdown {
+    padding-top: 15px;
+}
+
+.buttons {
+    margin-top: 15px;
+}
+
+body {
+    display: flex;
+    min-height: 100vh;
+    flex-direction: column;
+  }
+
+main {
+    flex: 1 0 auto;
+}
